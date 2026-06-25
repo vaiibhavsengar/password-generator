@@ -1,4 +1,4 @@
-# 🔐 Apram - Password Generator
+# 🔐 Password Generator
 
 **Apram** is a simple and secure password generator built using **HTML, CSS, and JavaScript**. It helps users create strong and random passwords to enhance their online security and protect their accounts.
 
